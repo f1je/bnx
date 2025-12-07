@@ -5,7 +5,7 @@
 ─────────────────────────────────
 
 💀 Need assistance?
-Join the Discord HQ:
+Join the Discord:
 🔗 https://discord.gg/xXsY2qNgVa
 
 ─────────────────────────────────
@@ -13,4 +13,4 @@ Join the Discord HQ:
 👥 Dev Team
 • Main Dev: **f1je**
 • Co-Dev: **osi**
-  → Special thanks for crucial contributions.
+  > Special thanks for crucial contributions.
