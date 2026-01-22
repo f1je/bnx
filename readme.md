@@ -1,6 +1,6 @@
 # 💻 SilentOS
 
-To start **Z3RO**, simply run:
+To start **SilentOS**, simply run:
 
 ➡️ **bootstrap.bat**
 
